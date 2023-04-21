@@ -23,3 +23,5 @@ Here is an example of a situation in which this script would be useful:
 3. You do not want to reinstall the system.
 
 In this case, you would run the script with the first argument being the new storage medium, and the second argument being the initial copy/backup.
+
+This happened to me with a failing hard drive.
